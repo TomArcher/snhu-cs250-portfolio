@@ -1,6 +1,6 @@
 # Sprint Review and Retrospective
 
-This project includes a [Word doc](SprintReviewAndRetrospective.docx) and a [PowerPoint deck](./SprintReviewAndRetrospective.pptx) outlining what I learned throughout the course regarding the following competencies:
+This project includes a [Word doc](SprintReviewAndRetrospective.docx) and a [PowerPoint deck](./SprintReviewAndRetrospective.pptx) outlining what I learned throughout the course regarding the following SDLC and Agile competencies:
 
 - Explain the different methodologies and stages involved in the software development life cycle
 - Apply the stages of the software development life cycle within an agile development environment
